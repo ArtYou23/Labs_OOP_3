@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ArtAcerNitro5\VisualStudioCode\OOP\Labs_OOP_3\build\CMakeFiles\53c6307cb00dd7c52f483ecedc4d5aa1\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{40BBEE8C-D0D6-3A9F-A607-2358786B9DBD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

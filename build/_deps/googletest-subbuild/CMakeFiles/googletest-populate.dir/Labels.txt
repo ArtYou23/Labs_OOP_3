@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/2b688987caecfdf657b9175df1f6ab10/googletest-populate.rule
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/44d82008b93c4abdbe0a2e419e171fbf/googletest-populate-complete.rule
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/9de08a7b245c7e327701719c3202065e/googletest-populate-build.rule
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/9de08a7b245c7e327701719c3202065e/googletest-populate-configure.rule
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/9de08a7b245c7e327701719c3202065e/googletest-populate-download.rule
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/9de08a7b245c7e327701719c3202065e/googletest-populate-install.rule
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/9de08a7b245c7e327701719c3202065e/googletest-populate-mkdir.rule
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/9de08a7b245c7e327701719c3202065e/googletest-populate-patch.rule
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/9de08a7b245c7e327701719c3202065e/googletest-populate-test.rule
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/9de08a7b245c7e327701719c3202065e/googletest-populate-update.rule

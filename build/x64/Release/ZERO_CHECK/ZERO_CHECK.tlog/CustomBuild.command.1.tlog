@@ -1,0 +1,10 @@
+^C:\USERS\ARTACERNITRO5\VISUALSTUDIOCODE\OOP\LABS_OOP_3\BUILD\CMAKEFILES\CA312B1093337C41A1FF762F62E28DF7\GENERATE.STAMP.RULE
+setlocal
+C:\Users\ArtAcerNitro5\cmake-4.1.1\bin\cmake.exe -SC:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3 -BC:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/third_laba.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

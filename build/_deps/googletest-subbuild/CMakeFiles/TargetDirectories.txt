@@ -1,0 +1,3 @@
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/ArtAcerNitro5/VisualStudioCode/OOP/Labs_OOP_3/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir
